@@ -4,6 +4,8 @@
 
 This project implements an IoT-based smart refrigerator system designed to monitor internal environmental conditions and predict the risk of food spoilage using real-time data and machine learning. The system is intended to enhance food safety, reduce waste, and improve refrigerator efficiency through intelligent analytics and automated decision-making.
 
+[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://youtu.be/pIoxiVyhqx8))
+
 ---
 
 ## 🛠️ Technologies Used
